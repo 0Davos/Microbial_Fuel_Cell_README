@@ -1,1 +1,5 @@
-# Microbial_Fuel_Cell_README
+# Microbial Fuel Cell Project
+## By Owen Davis, Jack D'iorio, and Sam Whitcomb
+
+Created in the Fall of 2023
+
